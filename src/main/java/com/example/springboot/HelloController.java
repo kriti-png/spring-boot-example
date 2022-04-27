@@ -12,7 +12,7 @@ public class HelloController {
 	ArrayList <Friend> friends = new ArrayList<>();
 
 	public HelloController() {
-
+		//Constructor
 	}
 
 	@GetMapping("/home")
